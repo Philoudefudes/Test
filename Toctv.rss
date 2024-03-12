@@ -11,7 +11,7 @@
         {
           "name": "Bóng Đá Việt",
           "image": "https://www.gifcen.com/wp-content/uploads/2022/10/soccer-gif-1.gif",
-          "url": "https://tekmonts.github.io/TVWC/?channel=VTV3",
+          "url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43971&extension=ts&play_token=CfU9GIzt83&sn2=",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
